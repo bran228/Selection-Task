@@ -1,0 +1,16 @@
+C:\Users\brandon's PC\Desktop\UNI WORK\ICTPRG301ICTPRG405 Intro to OO Programming\Selection Task\bin\Debug\net5.0\Selection Task.exe
+C:\Users\brandon's PC\Desktop\UNI WORK\ICTPRG301ICTPRG405 Intro to OO Programming\Selection Task\bin\Debug\net5.0\Selection Task.deps.json
+C:\Users\brandon's PC\Desktop\UNI WORK\ICTPRG301ICTPRG405 Intro to OO Programming\Selection Task\bin\Debug\net5.0\Selection Task.runtimeconfig.json
+C:\Users\brandon's PC\Desktop\UNI WORK\ICTPRG301ICTPRG405 Intro to OO Programming\Selection Task\bin\Debug\net5.0\Selection Task.runtimeconfig.dev.json
+C:\Users\brandon's PC\Desktop\UNI WORK\ICTPRG301ICTPRG405 Intro to OO Programming\Selection Task\bin\Debug\net5.0\Selection Task.dll
+C:\Users\brandon's PC\Desktop\UNI WORK\ICTPRG301ICTPRG405 Intro to OO Programming\Selection Task\bin\Debug\net5.0\ref\Selection Task.dll
+C:\Users\brandon's PC\Desktop\UNI WORK\ICTPRG301ICTPRG405 Intro to OO Programming\Selection Task\bin\Debug\net5.0\Selection Task.pdb
+C:\Users\brandon's PC\Desktop\UNI WORK\ICTPRG301ICTPRG405 Intro to OO Programming\Selection Task\obj\Debug\net5.0\Selection Task.csprojAssemblyReference.cache
+C:\Users\brandon's PC\Desktop\UNI WORK\ICTPRG301ICTPRG405 Intro to OO Programming\Selection Task\obj\Debug\net5.0\Selection Task.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\brandon's PC\Desktop\UNI WORK\ICTPRG301ICTPRG405 Intro to OO Programming\Selection Task\obj\Debug\net5.0\Selection Task.AssemblyInfoInputs.cache
+C:\Users\brandon's PC\Desktop\UNI WORK\ICTPRG301ICTPRG405 Intro to OO Programming\Selection Task\obj\Debug\net5.0\Selection Task.AssemblyInfo.cs
+C:\Users\brandon's PC\Desktop\UNI WORK\ICTPRG301ICTPRG405 Intro to OO Programming\Selection Task\obj\Debug\net5.0\Selection Task.csproj.CoreCompileInputs.cache
+C:\Users\brandon's PC\Desktop\UNI WORK\ICTPRG301ICTPRG405 Intro to OO Programming\Selection Task\obj\Debug\net5.0\Selection Task.dll
+C:\Users\brandon's PC\Desktop\UNI WORK\ICTPRG301ICTPRG405 Intro to OO Programming\Selection Task\obj\Debug\net5.0\ref\Selection Task.dll
+C:\Users\brandon's PC\Desktop\UNI WORK\ICTPRG301ICTPRG405 Intro to OO Programming\Selection Task\obj\Debug\net5.0\Selection Task.pdb
+C:\Users\brandon's PC\Desktop\UNI WORK\ICTPRG301ICTPRG405 Intro to OO Programming\Selection Task\obj\Debug\net5.0\Selection Task.genruntimeconfig.cache
